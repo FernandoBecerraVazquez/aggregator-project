@@ -7,7 +7,6 @@ import (
 
 	"github.com/FernandoBecerraVazquez/Aggregator/internal/config"
 	"github.com/FernandoBecerraVazquez/Aggregator/internal/database"
-	_ "github.com/lib/pq"
 )
 
 func main() {
